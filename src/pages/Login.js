@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Box, Heading, Input, Button, FormControl, FormLabel, VStack, Alert, AlertIcon, Link as ChakraLink } from '@chakra-ui/react';
+import { Box, Heading, Input, Button, FormControl, FormLabel, VStack, Alert, AlertIcon, Link as ChakraLink, Text } from '@chakra-ui/react';
 import { Link as RouterLink, useNavigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
 
